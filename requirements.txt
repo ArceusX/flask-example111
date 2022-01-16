@@ -1,2 +1,12 @@
-Flask
+click
+flask
+flask-login
+flask-sqlalchemy
 gunicorn
+itsdangerous
+jinja2
+markupsafe
+psycopg2
+python-dotenv
+sqlalchemy
+werkzeug

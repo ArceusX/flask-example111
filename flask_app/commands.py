@@ -8,3 +8,4 @@ from .models import User, Question
 @with_appcontext
 def create_tables():
     db.create_all()
+    
